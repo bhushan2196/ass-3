@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "title": "Finish project report", "completed": false },
+    { "title": "Read a book", "completed": false },
+    { "title": "work done", "completed": true }
+  ]
+}

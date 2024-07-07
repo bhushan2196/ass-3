@@ -1,0 +1,10 @@
+{
+  "todos": [
+    { "title": "Buy groceries", "completed": false },
+    { "title": "Finish project report", "completed": false },
+    { "title": "Book dentist appointment", "completed": true },
+    { "title": "Read a book", "completed": false },
+    { "title": "Exercise", "completed": false },
+    { "title": "do some codding", "completed": true }
+  ]
+}
